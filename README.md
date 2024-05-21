@@ -1,8 +1,9 @@
 # Watch Charlie Live
 ### Revise with me
 ### Complete work with me
-### Chill out with me<script src= "https://player.twitch.tv/js/embed/v1.js"></script>
+### Chill out with me
 
+<script src= "https://player.twitch.tv/js/embed/v1.js"></script>
 <div id="<player div ID>"></div>
 <script type="text/javascript">
   var options = {

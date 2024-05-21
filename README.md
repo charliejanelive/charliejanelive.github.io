@@ -3,9 +3,4 @@
 ### Complete work with me
 ### Chill out with me
 
-<iframe
-    src="[https://player.twitch.tv/?<channel, video, or collection>&parent=streamernews.example.com](https://player.twitch.tv/?channel=livecharliej&parent=www.example.com)"
-    height="<height>"
-    width="<width>"
-    allowfullscreen>
-</iframe>
+<iframe src="https://player.twitch.tv/?channel=livecharliej&parent=www.github.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
